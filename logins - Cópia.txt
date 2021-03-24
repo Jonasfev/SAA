@@ -1,0 +1,3 @@
+adm@lab64.edu.br#123456		//adm
+Breno#123456			//professor
+123#123				//coordenador
